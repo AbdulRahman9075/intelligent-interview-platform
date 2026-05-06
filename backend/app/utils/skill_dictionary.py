@@ -1,0 +1,16 @@
+SKILL_DICTIONARY: list[str] = [
+    "Python", "JavaScript", "TypeScript", "Java", "C", "C++", "C#",
+    "Go", "Rust", "Swift", "Kotlin", "PHP", "Ruby", "Scala", "R",
+    "React", "Vue", "Angular", "Next.js", "HTML", "CSS", "FastAPI",
+    "Django", "Flask", "Express", "Node.js", "REST API", "GraphQL",
+    "Machine Learning", "Deep Learning", "NLP", "Computer Vision",
+    "scikit-learn", "TensorFlow", "PyTorch", "Keras", "Pandas",
+    "NumPy", "Matplotlib", "Seaborn", "Jupyter",
+    "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite",
+    "Elasticsearch", "Firebase", "Cassandra",
+    "Docker", "Kubernetes", "AWS", "GCP", "Azure", "CI/CD",
+    "GitHub Actions", "Terraform", "Linux", "Bash", "Nginx",
+    "Data Structures", "Algorithms", "OOP", "System Design",
+    "Operating Systems", "Computer Networks", "Distributed Systems",
+    "Git", "Jira", "Postman", "VS Code", "IntelliJ", "Figma",
+]
